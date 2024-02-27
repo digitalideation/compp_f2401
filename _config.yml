@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: COMPP24
+show_downloads: "true"
+plugins:
+  - jemoji
