@@ -30,6 +30,8 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### [Week 02](#)
 
+TBA
+
 ## Evaluation
 
 ### Evaluation criteria:
