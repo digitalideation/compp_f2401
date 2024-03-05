@@ -20,7 +20,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ## Schedule
 
-### [Week 01](content/week01.md) | [:clapper:](#)
+### [Week 01](content/week01.md) | [:clapper:](https://drive.switch.ch/index.php/s/sO9JR059CCkR81q)
 
 - Students intro :wave:
 - Intro: General
@@ -30,6 +30,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### [Week 02](#)
 
+- Communication
 - ImageGen :ferris_wheel:
 
 TBA
