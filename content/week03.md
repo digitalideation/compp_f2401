@@ -5,7 +5,7 @@ title: 'Week 03'
 
 ## Intro
 
-This week we take one step back and two steps forwards!
+This week we take one step back and two steps forward!
 
 ## Schedule
 
