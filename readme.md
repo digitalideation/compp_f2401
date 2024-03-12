@@ -28,12 +28,21 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Inner working of a Neural Network
 - Intro to tools: Colab / Jupyter
 
-### [Week 02](#)
+### Week 02 | [:clapper:](https://drive.switch.ch/index.php/s/yOY9JQkJPP2JTko)
 
 - Communication
 - ImageGen :ferris_wheel:
 
-TBA
+### [Week 03](content/week03.md)
+
+- Step back
+- ImageGen - What the #@ˆ% are we doing?
+
+### Week 04
+
+- ML vs HL
+- Principles
+- LLM
 
 ## Evaluation
 
