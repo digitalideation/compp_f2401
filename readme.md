@@ -33,7 +33,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Communication
 - ImageGen :ferris_wheel:
 
-### [Week 03](content/week03.md)
+### [Week 03](content/week03.md) | [:clapper:](https://drive.switch.ch/index.php/s/4SU4OLxNpuiugLd)
 
 - Step back
 - ImageGen - What the #@ˆ% are we doing?
