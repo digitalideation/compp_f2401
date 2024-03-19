@@ -20,7 +20,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ## Schedule
 
-### [Week 01](content/week01.md) | [:clapper:](https://drive.switch.ch/index.php/s/sO9JR059CCkR81q)
+### [Week 01](content/week01.md) (KW09) | [:clapper:](https://drive.switch.ch/index.php/s/sO9JR059CCkR81q)
 
 - Students intro :wave:
 - Intro: General
@@ -28,21 +28,63 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Inner working of a Neural Network
 - Intro to tools: Colab / Jupyter
 
-### Week 02 | [:clapper:](https://drive.switch.ch/index.php/s/yOY9JQkJPP2JTko)
+### Week 02 (KW10) | [:clapper:](https://drive.switch.ch/index.php/s/yOY9JQkJPP2JTko)
 
 - Communication
-- ImageGen :ferris_wheel:
+- ImageGen - Part 01 - Getting started :ferris_wheel:
 
-### [Week 03](content/week03.md) | [:clapper:](https://drive.switch.ch/index.php/s/4SU4OLxNpuiugLd)
+### [Week 03](content/week03.md) (KW11) | [:clapper:](https://drive.switch.ch/index.php/s/4SU4OLxNpuiugLd)
 
 - Step back
-- ImageGen - What the #@ˆ% are we doing?
+- ImageGen - Part 02 - What the #@ˆ% are we doing?
 
-### Week 04
+### Week 04 (KW12)
 
+- Projects - Small talk
+- ImageGen - Part 03 - Techniques & tools, diving in...
+
+### Week 05 (KW13)
+
+- LLM
+- Platforms, API, libraries
+
+### Week 06 (KW14)
+
+- Projects - Sharing
 - ML vs HL
 - Principles
-- LLM
+
+### Week 07 (KW15)
+
+- Audio Generation
+
+### Week 08 (KW16)
+
+- TBA
+
+### Week 09 (KW17)
+
+- TBA
+
+### Week 10 (KW18)
+
+- TBA
+
+### Week 11 (KW19)
+
+- TBA
+
+### Week 12 (KW20)
+
+- TBA
+
+### Week 13 (KW21)
+
+- TBA
+
+### Week 14 (KW22)
+
+- Presentations, etc...
 
 ## Evaluation
 
