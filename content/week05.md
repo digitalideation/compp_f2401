@@ -44,7 +44,7 @@ The goal this week is to:
   - Hugging Face part 02 :hugs: (Image generation)
     - [Video :clapper:](https://drive.switch.ch/index.php/s/45xTOhqqU5Tj5Ft)
     - [Repo](https://github.com/digitalideation/hf_workshops/tree/main/luzern-university)
-  - [Related discord posts from Lewis](./assets/images/lewtun_discord_posts.png)
+  - [Related discord posts from Lewis](../assets/images/lewtun_discord_posts.png)
 - Go further with LLM tools on the Hub
 - Try to implement your own API integration in the language of your choice
 
