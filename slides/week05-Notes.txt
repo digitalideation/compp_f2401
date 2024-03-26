@@ -54,3 +54,23 @@ LSTM Diagram
 SimpleRNN has a major issue: albeit it should theoretically be able to retain at time t information about inputs seen many timesteps before, in practice such long-term dependencies prove to be impossible to learn. This is due to the "vanishing gradient problem", an effect that is similar to what can be observed with non-recurrent networks (feedforward networks) that are many layers deep: as one keeps adding layers to a network, the network eventually becomes un-trainable. The theoretical reasons for this effect have been studied by Hochreiter, Schmidhuber, and Bengio in the early 1990s. The LSTM and GRU layers are designed to solve this very problem.
 
 In summary: you don’t need to understand anything about the specific architecture of a LSTM cell; as a human, it shouldn’t be your job to understand it. Just keep in mind what the LSTM cell is meant to do: allowing past information to be reinjected at a later time, thus fighting the vanishing gradient problem.
+
+
+-----
+transformers
+
+The cat eats the rat.
+
+The model will learn that after “cat” there is always “eats”, then “the”. But after “the”, there is a 50% chance of having “cat” and 50% chance of having “rat”. We can use this model to ask what’s the next word after an incomplete sentence. If we repeat this process, we can generate entire sentences.
+
+The model
+If we ask the model to generate a sentence, we could get exactly the same thing as the training text:
+
+The cat eats the rat.
+
+We could also get:
+
+The rat.
+
+The cat eats the cat eats the cat eats the rat.
+
