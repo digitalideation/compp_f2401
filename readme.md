@@ -38,7 +38,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Step back
 - ImageGen - Part 02 - What the #@ˆ% are we doing?
 
-### Week 04 (KW12)
+### Week 04 (KW12) | [:clapper:](https://drive.switch.ch/index.php/s/US5mKEsAAHpqZoL)
 
 - Projects - Small talk
 - ImageGen - Part 03 - Techniques & tools, diving in...
