@@ -43,7 +43,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Projects - Small talk
 - ImageGen - Part 03 - Techniques & tools, diving in...
 
-### [Week 05](content/week05.md) (KW13)
+### [Week 05](content/week05.md) (KW13) | [:clapper:](https://drive.switch.ch/index.php/s/Oh7h6yC0fa6FITx)
 
 - LLM
 - Platforms, API, libraries
