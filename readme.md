@@ -48,15 +48,15 @@ Once we get a good grasp of the different techniques, we will experiment further
 - LLM
 - Platforms, API, libraries
 
-### Week 06 (KW14)
+### Week 06 (KW14) | [:clapper:](https://drive.switch.ch/index.php/s/PHwaYZCdGY0lEG8)
 
 - Projects - Sharing
-- ML vs HL
-- Principles
 
 ### Week 07 (KW15)
 
 - Audio Generation
+- ML vs HL
+- Principles
 
 ### Week 08 (KW16)
 
