@@ -52,7 +52,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Projects - Sharing
 
-### Week 07 (KW15)
+### Week 07 (KW15) | [:clapper](https://drive.switch.ch/index.php/s/qgPI0qYCGEN4Mbl)
 
 - Audio Generation
 - ML vs HL
