@@ -52,19 +52,25 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Projects - Sharing
 
-### Week 07 (KW15) | [:clapper](https://drive.switch.ch/index.php/s/qgPI0qYCGEN4Mbl)
+### Week 07 (KW15) | [:clapper:](https://drive.switch.ch/index.php/s/qgPI0qYCGEN4Mbl)
 
 - Audio Generation
 - ML vs HL
 - Principles
 
-### Week 08 (KW16)
+### Week 08 (KW16) | [:clapper:](https://drive.switch.ch/index.php/s/vgYEm78JxkwfWdo)
 
-- TBA
+- ML from scratch  
+- Model conversion  
+- Other frameworks (JS)
+- Hardware / local setup (good practice)
+- Conda, docker, etc...  
 
-### Week 09 (KW17)
+### Week 09 (KW17) | [:clapper:](https://drive.switch.ch/index.php/s/xYS5XprHYwiQ3PT)
 
-- TBA
+- Open discussions:
+  - Prompting
+  - Deploying / Using LLM
 
 ### Week 10 (KW18)
 
