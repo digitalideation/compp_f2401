@@ -52,7 +52,7 @@ The goal this week is to:
 
 - [Simply explained: how does GPT work?](https://confusedbit.dev/posts/how_does_gpt_work/)
 - [Transformers, explained: Understand the model behind GPT, BERT, and T5](https://www.youtube.com/watch?v=SZorAJ4I-sA)
-- [How ChatGPT Works Technically | ChatGPT Architecture](https://www.youtube.com/watch?v=bSvTVREwSNw)
+- [How ChatGPT Works Technically, ChatGPT Architecture](https://www.youtube.com/watch?v=bSvTVREwSNw)
 - [MS Video K. - State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 - [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)
 - [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
