@@ -72,9 +72,11 @@ Once we get a good grasp of the different techniques, we will experiment further
   - Prompting
   - Deploying / Using LLM
 
-### Week 10 (KW18)
+### Week 10 (KW18) | [:clapper:](https://drive.switch.ch/index.php/s/3hHBzH8k4zAlLDO)
 
-- TBA
+- Open discussions
+- Mechanism of learning ([slides from KI_Philo class](https://digitalideation.github.io/hslu-ki-24/slides/week03.html#slide=1))
+- Help on projects
 
 ### Week 11 (KW19)
 
